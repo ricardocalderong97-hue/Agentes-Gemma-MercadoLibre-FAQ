@@ -1,0 +1,62 @@
+[
+  {
+    "pregunta": "¿Cómo puedo devolver un producto que compré?",
+    "respuesta": "Desde el detalle de la compra, solicita la devolución, utiliza la etiqueta o QR proporcionado y lleva el paquete al lugar indicado. Las condiciones dependen del producto y motivo.",
+    "fuente": "https://www.mercadolibre.com.co/seguridad"
+  },
+  {
+    "pregunta": "¿Cuántos días tengo para devolver una compra?",
+    "respuesta": "Para muchas compras se permite solicitar devolución hasta 30 días después de recibirla, según producto, motivo y exclusiones. Revisa las condiciones específicas de tu compra.",
+    "fuente": "https://www.mercadolibre.com.co/compra-protegida/"
+  },
+  {
+    "pregunta": "¿Qué sucede si mi compra no llega?",
+    "respuesta": "Compra Protegida indica cobertura por producto no recibido durante 21 días desde la compra, sujeto a condiciones. Debes iniciar el reclamo desde la compra.",
+    "fuente": "https://www.mercadolibre.com.co/compra-protegida/"
+  },
+  {
+    "pregunta": "¿Qué hago si mi compra llega dañada o diferente?",
+    "respuesta": "Puedes iniciar un reclamo desde el detalle de la compra. La protección por problemas del producto puede aplicar hasta 30 días desde recibirlo, según la categoría y las condiciones.",
+    "fuente": "https://www.mercadolibre.com.co/compra-protegida/"
+  },
+  {
+    "pregunta": "¿Puedo pagar con tarjeta, PSE o Efecty?",
+    "respuesta": "Según la página de preguntas frecuentes de medios de pago de Mercado Libre Colombia, se ofrecen tarjeta de crédito o débito, transferencia mediante PSE y efectivo en Efecty.",
+    "fuente": "https://www.mercadolibre.com.co/l/mediosdepago"
+  },
+  {
+    "pregunta": "¿Puedo pagar con Nequi o Daviplata?",
+    "respuesta": "La sección de medios de pago señala que puedes seleccionar transferencia bancaria con PSE y elegir Nequi o Daviplata, cuando esas opciones estén disponibles.",
+    "fuente": "https://www.mercadolibre.com.co/l/mediosdepago"
+  },
+  {
+    "pregunta": "¿Se puede pagar contra entrega?",
+    "respuesta": "La página de preguntas frecuentes de medios de pago indica que actualmente no se ofrece pago contra entrega.",
+    "fuente": "https://www.mercadolibre.com.co/l/mediosdepago"
+  },
+  {
+    "pregunta": "¿Puedo pagar una compra con PayPal?",
+    "respuesta": "La página de preguntas frecuentes de medios de pago indica que PayPal no está incluido entre los métodos ofrecidos.",
+    "fuente": "https://www.mercadolibre.com.co/l/mediosdepago"
+  },
+  {
+    "pregunta": "¿Puedo combinar dos medios de pago?",
+    "respuesta": "La sección de medios de pago señala que no permite seleccionar dos medios para una misma compra.",
+    "fuente": "https://www.mercadolibre.com.co/l/mediosdepago"
+  },
+  {
+    "pregunta": "¿Cuánto tiempo tengo para pagar en Efecty?",
+    "respuesta": "La sección de medios de pago indica un plazo de hasta 7 días para realizar el pago de una compra por Efecty.",
+    "fuente": "https://www.mercadolibre.com.co/l/mediosdepago"
+  },
+  {
+    "pregunta": "¿Qué hago si un vendedor me pide pagar por fuera de Mercado Libre?",
+    "respuesta": "Evita pagar mediante enlaces externos o por fuera de la compra. Para tener Compra Protegida, realiza el pago dentro de Mercado Libre mediante su proceso de pago.",
+    "fuente": "https://www.mercadolibre.com.co/l/compra-seguro"
+  },
+  {
+    "pregunta": "¿Cómo retiro una compra en una agencia de Mercado Libre?",
+    "respuesta": "Cuando la compra llegue a la agencia elegida, recibirás una notificación. La página de agencias indica un máximo de 7 días para retirarla con el código QR.",
+    "fuente": "https://envios.mercadolibre.com.co/agencias"
+  }
+]

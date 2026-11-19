@@ -1,0 +1,21 @@
+# Credenciales privadas
+.env
+.env.*
+!.env.example
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Archivos temporales
+.vscode/
+Thumbs.db
+.DS_Store
